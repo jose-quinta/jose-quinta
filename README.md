@@ -1,7 +1,6 @@
-# 👨‍💻 Mi Perfil como Desarrollador Junior
-
+# 👨‍💻 Mi Perfil como Desarrollador
 ## 🌍 Sobre Mí
-Soy un desarrollador junior passionado por crear soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas y trabajar en equipo.
+Soy un desarrollador passionado por crear soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas y trabajar en equipo.
 
 ## 🛠️ Habilidades Técnicas
 
