@@ -1,6 +1,6 @@
-# 👨‍💻 Mi Perfil como Desarrollador
+# 👨‍💻 Mi Perfil como Fullstack Desarrollador
 ## 🌍 Sobre Mí
-Soy un desarrollador passionado por crear soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas y trabajar en equipo.
+Soy un desarrollador fullstack passionado por crear soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas y trabajar en equipo.
 
 ## 🛠️ Habilidades Técnicas
 
