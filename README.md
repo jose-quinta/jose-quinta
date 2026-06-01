@@ -1,56 +1,37 @@
-# 👨‍💻 Mi Perfil como Fullstack Desarrollador
-## 🌍 Sobre Mí
-Soy un desarrollador fullstack passionado por crear soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas y trabajar en equipo.
+# 👋 Hola, soy Jose Quinta
 
-## 🛠️ Habilidades Técnicas
-
-### Lenguajes de Programación
-| Tecnología  | Nivel      | Años de Experiencia |
-|-------------|------------|---------------------|
-| JavaScript  | Intermedio | 2                   |
-| Python      | Intermedio | 2                   |
-| HTML/CSS    | Intermedio | 2                   |
-| C#          | Intermedio | 3                   |
-
-### Frameworks y Herramientas
-- C# / Dotnet with EntityFramework
-- React.js
-- Node.js
-- Git / GitHub
-- VS Code
-- SQL
-
-### Áreas de Conocimiento
-- Desarrollo Web
-- Base de datos
-- Control de versiones
-
-## 🌟 Mis Talentos y Fortalezas
-
-### 💡 Resolución de Problemas
-Analizo problemas de forma creativa y encuentro soluciones eficientes. Disfruto debuggear y optimizar código.
-
-### 📚 Aprendizaje Rápido
-Capaz de adoptar nuevas tecnologías rápidamente. Siempre estoy estudiando y practicando.
-
-### 🤝 Trabajo en Equipo
-Comunicación clara y colaboración efectiva. Abierto a recibir retroalimentación.
-
-### 🎯 Atención al Detalle
-Código limpio y bien estructurado. Seguimiento de buenas prácticas.
-
-
-## 📊 Estadísticas de GitHub
-![Jose-Quinta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-quinta&show_icons=true&theme=radical)
-
-## 📚 Actualmente Aprendiendo
-- Python
-- Docker / Docker-Compose
-- Kubernetes
-
-## 📫 Contacto
-- Email: tu@email.com
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/jos%C3%A9-quintana-792a05267/)
+**Desarrollador backend en formación** con enfoque en **.NET / C#** y interés en el ecosistema fullstack.
 
 ---
-⭐️ Damos la bienvenida a colaboraciones y retroalimentación constructiva.
+
+## 🧰 Stack principal
+
+- **Backend:** C# / .NET 8, ASP.NET Core Web API, Entity Framework Core
+- **Frontend:** React, TypeScript, HTML/CSS
+- **Bases de datos:** SQL Server, MySQL, SQLite
+- **Herramientas:** Git, VS Code, Visual Studio, Postman
+- **Aprendiendo:** Docker, Kubernetes, Azure, Python
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Stack | Lo que demuestra |
+|---|---|---|
+| [EcommerceMERN](https://github.com/jose-quinta/EcommerceMERN) | TypeScript, MERN | CRUD, autenticación, frontend + backend |
+| [.NetJwt](https://github.com/jose-quinta/.NetJwt) | C#, .NET, JWT | Autenticación, autorización, seguridad |
+| [DotNetWebApiCountries](https://github.com/jose-quinta/DotNetWebApiCountries) | C#, .NET, EF | API RESTful, Entity Framework, SQL |
+| [todo-list-flet](https://github.com/jose-quinta/todo-list-flet) | Python, Flet | Aplicación de escritorio con GUI |
+
+> *Algunos proyectos están siendo migrados a versiones deployadas — enlaces próximamente.*
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-quintana-792a05267/)
+- Email: *(disponible en LinkedIn)*
+
+---
+
+*Buscando oportunidades como desarrollador trainee / junior .NET.*
